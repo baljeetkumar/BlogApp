@@ -1,4 +1,5 @@
 # BlogApp
-This is a blog with the feature of create,delete and edit.
-                       FRONT-END : HTML,CSS ,JS,SemanticUI
-                       BACK-END: Node.js,MongoDB,express
+This is a blog with the functionalities like create,delete and edit.
+                       
+Front-End: HTML,CSS,JS,SemanticUI
+Back-End: Node.js, MongoDB, express
